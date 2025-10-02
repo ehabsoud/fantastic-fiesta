@@ -12,3 +12,4 @@
 /Users/ehabsoud/RiderProjects/ConsoleApp13/ConsoleApp13/obj/Debug/net8.0/ConsoleApp13.pdb
 /Users/ehabsoud/RiderProjects/ConsoleApp13/ConsoleApp13/obj/Debug/net8.0/ConsoleApp13.genruntimeconfig.cache
 /Users/ehabsoud/RiderProjects/ConsoleApp13/ConsoleApp13/obj/Debug/net8.0/ref/ConsoleApp13.dll
+/Users/ehabsoud/RiderProjects/ConsoleApp13/ConsoleApp13/obj/Debug/net8.0/ConsoleApp13.sourcelink.json
